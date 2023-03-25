@@ -1,4 +1,4 @@
 # Personal-Portfolio
-Personal Portfolio portfolio using HTML, CSS, and Bootstrap.
+A Simple Personal Portfolio portfolio using HTML, CSS.
 
 https://coderpartha012.github.io/Personal-Portfolio/
